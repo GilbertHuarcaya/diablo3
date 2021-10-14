@@ -3,7 +3,7 @@
     <small>
       Made by
       <a href="https://twitter.com/baumannzone" target="_blank"
-        >Jorge Baumann</a
+        >Gilbert Huarcaya</a
       >
       for
       <a href="https://platzi.com/cursos/avanzado-vue/" target="_blank"

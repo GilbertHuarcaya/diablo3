@@ -1,8 +1,8 @@
 /* eslint-disable prettier/prettier */
 import { post } from "axios";
 
-const clientId = "8a59a1830efe4130abe7720b4d286763";
-const clientSecret = "Ucunt4URq6dRjmT8zK374rjPmsUzaXsp";
+const clientId = process.env.VUE_APP_CLIENT_ID
+const clientSecret = process.env.VUE_APP_CLIENT_SECRET
 
 const region = "eu";
 const API_URL = `https://${region}.battle.net/oauth/token`;
